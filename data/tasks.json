@@ -1,0 +1,101 @@
+{
+  "lastId": 8,
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Backend proje iskeletini oluştur",
+      "description": "Node.js + Express kurulumu ve klasör yapısı",
+      "status": "completed",
+      "priority": "high",
+      "assignee": "musa",
+      "project": "TaskFlow API",
+      "dueDate": "2026-11-10",
+      "createdAt": "2026-11-06T18:31:32.273Z",
+      "updatedAt": "2026-11-06T18:31:32.273Z"
+    },
+    {
+      "id": 2,
+      "title": "Logger middleware yaz",
+      "description": "Tüm isteklerin method, endpoint ve zamanını logla",
+      "status": "completed",
+      "priority": "high",
+      "assignee": "serra",
+      "project": "TaskFlow API",
+      "dueDate": "2026-11-11",
+      "createdAt": "2026-11-07T18:31:32.273Z",
+      "updatedAt": "2026-11-07T18:31:32.273Z"
+    },
+    {
+      "id": 3,
+      "title": "Görev CRUD endpointleri",
+      "description": "Ekleme, listeleme, detay, güncelleme ve silme",
+      "status": "in-progress",
+      "priority": "high",
+      "assignee": "serra",
+      "project": "TaskFlow API",
+      "dueDate": "2026-11-17",
+      "createdAt": "2026-11-08T18:31:32.273Z",
+      "updatedAt": "2026-11-08T18:31:32.273Z"
+    },
+    {
+      "id": 4,
+      "title": "Postman koleksiyonu hazırla",
+      "description": "Tüm CRUD uçları için test istekleri",
+      "status": "todo",
+      "priority": "medium",
+      "assignee": "ayse",
+      "project": "TaskFlow API",
+      "dueDate": "2026-11-19",
+      "createdAt": "2026-11-09T18:31:32.273Z",
+      "updatedAt": "2026-11-09T18:31:32.273Z"
+    },
+    {
+      "id": 5,
+      "title": "Login sayfası tasarımı",
+      "description": "Frontend ekibi için giriş ekranı tasarımı",
+      "status": "todo",
+      "priority": "low",
+      "assignee": "mehmet",
+      "project": "Web Portal",
+      "dueDate": "2026-11-23",
+      "createdAt": "2026-11-10T18:31:32.273Z",
+      "updatedAt": "2026-11-10T18:31:32.273Z"
+    },
+    {
+      "id": 6,
+      "title": "Veritabanı yedekleme planı",
+      "description": "Haftalık yedekleme senaryosunu dokümante et",
+      "status": "in-progress",
+      "priority": "medium",
+      "assignee": "musa",
+      "project": "Altyapı",
+      "dueDate": "2026-11-15",
+      "createdAt": "2026-11-11T18:31:32.273Z",
+      "updatedAt": "2026-11-11T18:31:32.273Z"
+    },
+    {
+      "id": 7,
+      "title": "Backend kod incelemesi",
+      "description": "Pull request incelemesi ve geri bildirim",
+      "status": "todo",
+      "priority": "medium",
+      "assignee": "ayse",
+      "project": "TaskFlow API",
+      "dueDate": "2026-11-18",
+      "createdAt": "2026-11-12T18:31:32.273Z",
+      "updatedAt": "2026-11-12T18:31:32.273Z"
+    },
+    {
+      "id": 8,
+      "title": "Raporlama servisi",
+      "description": "Tamamlanan / bekleyen görev raporları",
+      "status": "completed",
+      "priority": "low",
+      "assignee": "serra",
+      "project": "TaskFlow API",
+      "dueDate": "2026-11-14",
+      "createdAt": "2026-11-13T18:31:32.273Z",
+      "updatedAt": "2026-11-13T18:31:32.273Z"
+    }
+  ]
+}
